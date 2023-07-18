@@ -1,6 +1,7 @@
 //import dependencies 
 import React from 'react';
 import {View, Button, StyleSheet, ImageBackground} from 'react-native';
+
 // function to contain the Home page
 const HomePage = ({navigation}) => {
     React.useLayoutEffect(() => {
